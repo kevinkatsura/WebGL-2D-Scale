@@ -1,2 +1,2 @@
 ## WebGL 2D Scale Tutorial
-> YouTube Link : 
+> YouTube Link : https://youtu.be/LdBF_LRn-Jk
